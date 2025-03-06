@@ -1,6 +1,6 @@
 package main
 
-import "go-every/FunctionalOptions/file"
+import "github.com/yikuanzz/go-pattern/FunctionalOptions/file"
 
 func main() {
 	err := file.New("./tmp/empty.txt")

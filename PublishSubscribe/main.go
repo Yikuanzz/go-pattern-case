@@ -1,9 +1,10 @@
 package main
 
 import (
-	"go-every/PublishSubscribe/pubsub"
 	"log"
 	"time"
+
+	"github.com/yikuanzz/go-pattern/PublishSubscribe/pubsub"
 )
 
 func main() {

@@ -1,9 +1,10 @@
 package main
 
 import (
-	"go-every/TimingFuncitons/profile"
 	"math/big"
 	"time"
+
+	"github.com/yikuanzz/go-pattern/TimingFuncitons/profile"
 )
 
 func BigIntFactorial(x *big.Int) *big.Int {
